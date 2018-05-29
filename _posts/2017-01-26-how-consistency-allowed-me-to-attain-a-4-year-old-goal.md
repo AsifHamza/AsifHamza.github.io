@@ -29,10 +29,10 @@ Of course, saying you want to be consistent is very different from actually bein
 
 The final step was to gamify the process by analysing all my training statistics for the previous years and setting goals to beat them. This was not so easy. For one, my training statistics were spread over multiple web platforms. Strava, Garmin, Polar, Apple Health and the web platform my local gym used.I needed a way to combine my training data from the different fitness platforms I was using. So I built an app.
 
-![Screen 1]{{site.url}}{{ site.baseurl }}/assets/images/IMG_1867-169x300.png)
-![Screen 2]{{site.url}}{{ site.baseurl }}/assets/images/IMG_1866-169x300.png)
-![Screen 3]{{site.url}}{{ site.baseurl }}/assets/images/IMG_1865-169x300.png)
-![Screen 4]{{site.url}}{{ site.baseurl }}/assets/images/IMG_1864-169x300.png)
+![Screen 1]({{site.url}}{{ site.baseurl }}/assets/images/IMG_1867-169x300.png)
+![Screen 2]({{site.url}}{{ site.baseurl }}/assets/images/IMG_1866-169x300.png)
+![Screen 3]({{site.url}}{{ site.baseurl }}/assets/images/IMG_1865-169x300.png)
+![Screen 4]({{site.url}}{{ site.baseurl }}/assets/images/IMG_1864-169x300.png)
 
 The app allowed me to track my workout frequency and intensity weekly, monthly and yearly. My aim was to always do better than yesterday, last week or last month and this motivated me to never miss a training session.
 
