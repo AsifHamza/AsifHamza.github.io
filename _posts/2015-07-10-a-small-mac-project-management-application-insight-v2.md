@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: 'A small Mac Project Management application: Insight V2'
 date: 2015-07-10 06:25:29.000000000 +02:00
 tags: [Insight, Mac, Swift]

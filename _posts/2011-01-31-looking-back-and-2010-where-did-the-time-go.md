@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: 'Looking back and 2010: Where did the time go?'
 date: 2011-01-31 16:26:00.000000000 +02:00
 tags: ['2011']

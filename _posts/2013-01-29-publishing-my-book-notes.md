@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Publishing my book notes
 date: 2013-01-29 10:31:50.000000000 +02:00
 social-share: false

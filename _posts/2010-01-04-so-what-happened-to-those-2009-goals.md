@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: So what happened to those 2009 goals?
 date: 2010-01-04 16:01:00.000000000 +02:00
 social-share: false

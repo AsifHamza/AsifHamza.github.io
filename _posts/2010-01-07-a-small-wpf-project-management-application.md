@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: A small WPF project management application
 date: 2010-01-07 11:52:23.000000000 +02:00
 social-share: false

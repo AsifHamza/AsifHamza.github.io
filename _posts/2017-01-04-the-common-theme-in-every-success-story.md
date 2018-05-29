@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: The Common Theme in Every Success Story
 date: 2017-01-04 09:35:45.000000000 +02:00
 social-share: false

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: The Power of Social Media
 date: 2015-07-30 14:39:23.000000000 +02:00
 social-share: false
