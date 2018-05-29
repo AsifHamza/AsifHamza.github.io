@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Blogging can be frustrating
 date: 2009-01-09 19:00:37.000000000 +02:00
 social-share: false

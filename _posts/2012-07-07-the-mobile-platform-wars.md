@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: The mobile platform wars
 date: 2012-07-07 19:24:36.000000000 +02:00
 tags: [ Android, Apple, Google, iPhone, Nokia]

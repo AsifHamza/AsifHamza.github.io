@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The Blogs I follow
 date: 2009-04-03 19:59:48.000000000 +02:00
 social-share: false

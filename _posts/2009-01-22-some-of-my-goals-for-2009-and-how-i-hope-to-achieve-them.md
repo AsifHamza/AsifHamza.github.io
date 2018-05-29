@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Some of my goals for 2009 and how I hope to achieve them
 date: 2009-01-22 23:47:21.000000000 +02:00
 tags: [Arduino, BEAM, Goal Setting, Mentalism, SMART goals, touch typing]

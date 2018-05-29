@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Repairing my Nokia N80: Part 2 - Disassembling the Nokia N80'
 date: 2008-04-21 17:47:57.000000000 +02:00
 social-share: false

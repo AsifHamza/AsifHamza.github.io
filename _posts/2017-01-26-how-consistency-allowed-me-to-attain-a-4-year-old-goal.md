@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: How consistency allowed me to attain a 4-year old goal
 date: 2017-01-26 16:54:53.000000000 +02:00
 social-share: false

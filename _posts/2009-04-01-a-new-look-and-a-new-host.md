@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: A New look and a New host
 date: 2009-04-01 21:28:00.000000000 +02:00
 tags: [CSS, Web Design, Web Hosting, XHTML]

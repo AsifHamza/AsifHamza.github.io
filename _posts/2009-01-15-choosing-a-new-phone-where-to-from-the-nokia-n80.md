@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 'Choosing a new phone: Where to from the Nokia N80?'
 date: 2009-01-15 18:26:28.000000000 +02:00
 tags: [Nokia E71]

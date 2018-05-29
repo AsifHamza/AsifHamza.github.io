@@ -1,25 +1,7 @@
 ---
-layout: post
+layout: single
 title: Increasing my Touch-Typing Speed - Kickoff
 date: 2009-01-29 23:55:17.000000000 +02:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories:
-- Goals for 2009
-tags:
-- Goal Setting
-- touch typing
-meta:
-  _edit_last: '1'
-author:
-  login: AsifHamza
-  email: asif.hamza@asifhamza.com
-  display_name: Asif Hamza
-  first_name: Asif
-  last_name: Hamza
 ---
 <div class="wlWriterSmartContent" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:57a6ad1a-79cd-42f4-bf96-b7677bd90032" style="display:inline;margin:0;padding:0;">Technorati Tags: <a href="http://technorati.com/tags/Touch%20Typing" rel="tag">Touch Typing</a></div>
 <p>I must confess, I started learning to touch-type sometime in November 2008. But I had fallen off the wagon at the beginning of January. To compensate and motivate myself to keep at it, I decided to make this one of my top goals for 2009. </p>

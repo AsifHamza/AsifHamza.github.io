@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Installing Windows 7
 date: 2009-03-02 18:27:37.000000000 +02:00
 social-share: false

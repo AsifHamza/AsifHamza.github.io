@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Beginning Development with Silverlight 2
 date: 2009-07-23 14:51:24.000000000 +02:00
 tags: [Silverlight, WPF]
