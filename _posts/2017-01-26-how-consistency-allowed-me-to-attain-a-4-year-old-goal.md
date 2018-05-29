@@ -10,7 +10,8 @@ That first ride was hard. But I was hooked. I soon swapped out my department sto
 I was riding nearly every week after that. Pretty soon I decided to enter the 94.7 km cycle challenge. The second largest cycle timed cycle event in the world. I had aspirations of finishing the race in under 4 hours. Alas, it took me 5 and half hours. From then on, my goal has been to complete the race in under 4 hours.
 
 It took me almost four years, but I finally achieved it. In November 2016, I completed the 94.7 Cycle Challenge in 3hrs 59 minute. So what was different in 2016? The table below provides you with a hint.
-![Strava](/assets/images/Strava-Stats.jpg)
+
+![Strava]({{ site.url }}{{ site.baseurl }}/assets/images/Strava-Stats.jpg)
 
 
 Consistency. In 2016 I trained more and rode more than I ever had before. This was despite the fact that I only started training in July.
