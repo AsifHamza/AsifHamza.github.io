@@ -6,7 +6,7 @@ tags: [Insight, Mac, Swift]
 social-share: false
 ---
 
-A <a href="http://inessential.com/2015/06/30/love">recent post by Brent Simmon</a>s talks about the economic problems of developing iOS apps. Brent talks about the difficulty in making money if your primary focus is developing iOS apps for sale in the app store.
+A [recent post by Brent Simmons](http://inessential.com/2015/06/30/love) talks about the economic problems of developing iOS apps. Brent talks about the difficulty in making money if your primary focus is developing iOS apps for sale in the app store.
 
 The quote that caught my eye is the following:
 
