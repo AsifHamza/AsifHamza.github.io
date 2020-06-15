@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Full Stack Development
-date: 2017-01-26 16:54:53.000000000 +02:00
+date: 2020-04-16 10:54:53.000000000 +02:00
 social-share: false
 ---
 
